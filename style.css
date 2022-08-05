@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+
+}
+.card{
+    background-color:#382e2e;
+    align-items: center;
+    width:250px ;
+    height: 280px;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 100px 50px 50px 400px 
+}
+
+img{
+    width: 15px;
+    height: 15px;
+    margin: 10px 10px 10px 10px ;
+    align-items: center;
+    padding: 10px 10px 10px 10px ;
+    border-radius: 100%;
+    border-color:darkslateblue;
+}
+p{
+    /* background-color: darkblue; */
+    /* text-decoration: white; */
+    font-weight:200;
+    color: white;
+    margin: 10px 10px 10px 10px ;
+
+
+}
+.lines{
+    color: white;
+    margin: 10px 10px 10px 10px ;
+    font-size: small;
+
+}
+.buttons{
+    display: flex;
+    /* margin: 10px 10px 10px 10px ; */
+    /* padding: 10px 10px 10px 10px ; */
+    background-color: #382e2e;
+}
+.button{
+    background-color:darkslateblue ;
+   margin: 10px 10px 10px 10px ;
+   border-radius: 100%;
+   size: 50px  ;
+   padding: 7px 7px 7px 7px ;
+}
+.submit{
+    background-color: orange;
+    border-radius: 10px;
+   margin: 10px 2px 2px 20px ;
+   width: 80%;
+   padding:5px 5px ;
+    align-items: center;
+    justify-content: center;
+}
